@@ -45,4 +45,24 @@ I'm building this as a **portfolio project** while applying for **Junior Golang 
 
 ### ⚙️ Tools & DevOps
 ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
-![Postman](https://img.shields.)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+![gRPC](https://img.shields.io/badge/gRPC-000000?style=for-the-badge&logo=grpc&logoColor=white)  
+![Protobuf](https://img.shields.io/badge/Protobuf-4285F4?style=for-the-badge&logo=google&logoColor=white)  
+![HTTP/2](https://img.shields.io/badge/HTTP/2-005571?style=for-the-badge)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)  
+
+---
+
+# 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Human-Unit&theme=aura&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Human-Unit&theme=aura&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Human-Unit&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=Human-Unit&icon=3&color=9)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
