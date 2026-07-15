@@ -1,71 +1,105 @@
-# 💫 About Me
+<div align="center">
+# Turning math into high-performance backend systems
+Telegram
 
-Junior backend developer focused on Go. Currently building **Journal Task Manager** — a portfolio project demonstrating production-ready architecture patterns.
+GitHub
 
-- 🔭 Working on: REST + gRPC dual-server app with JWT auth
-- 🌱 Learning: distributed systems, clean architecture
-- 💼 Open to: Junior Golang Developer positions (remote / part-time)
+Location
 
----
+Education
+Profile Views: 
+</div>
+  ╔═══════════════════════════════════════════╗
+  ║           WHO IS HUMAN-UNIT?              ║
+  ╚═══════════════════════════════════════════╝
 
-## 🚀 Project: Journal Task Manager
+```typescript
+const dilshod = {
+  name:     "Dilshod Mahmudov",
+  alias:    "Human-Unit",
+  role:     ["Backend Developer", "Applied Mathematician"],
+  location: "Dushanbe, Tajikistan 🇹🇯",
+  edu:      "MSU Branch · 2nd year",
 
-> Go · Gin · gRPC · GORM · SQLite · JWT · bcrypt · Protobuf · HTTP/2
+  coreSkills: {
+    languages: ["Go (Golang)", "Python", "C++", "SQL"],
+    backend:   ["Gin", "gRPC", "Protobuf", "Clean Architecture", "Docker", "CI/CD"],
+    databases: ["PostgreSQL", "SQLite", "GORM ORM", "Swagger"],
+    testing:   ["Integration tests", "httptest", "table-driven tests", "Postman"],
+    ai_vision: ["LLM integration", "RAG", "FAISS", "OpenCV"],
+  },
 
-| Layer | Implementation |
-|---|---|
-| API | REST via Gin framework |
-| Auth & Logic | gRPC with Protocol Buffers |
-| Security | JWT + bcrypt |
-| Persistence | SQLite with GORM ORM |
+  currentlyBuilding: "Production-grade microservices & LLM-routed systems",
+  philosophy: "Applied mathematics drives structured, analytical thinking. Code brings it to life.",
 
-Modular architecture cleanly separates transport, business logic, and data layers. Tested with Postman.
+  experience: [
+    "Backend Developer Intern @ Tcell (Improved response speed ~80%, cut query dev time 70%)",
+    "Open Source Backend Developer @ Hadaf"
+  ]
+} as const;
 
-🔗 [GitHub Repo](https://github.com/Human-Unit)
+```
+```text
+  ╔═══════════════════════════════════════════╗
+  ║              TECH ARSENAL                 ║
+  ╚═══════════════════════════════════════════╝
 
----
+<div align="center">
+### 🐹 Backend & Infra
+### 📊 Databases & Testing
+### 🧠 AI, Vision & Math
+</div>
+text
+  ╔═══════════════════════════════════════════╗
+  ║             SHIPPED PRODUCTS              ║
+  ╚═══════════════════════════════════════════╝
 
-## 🌐 Socials
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<h3>📝 Reminder-Card</h3>
+<p><i>Production REST API with CI/CD Pipeline</i> | <a href="https://github.com/Human-Unit/Reminder-Card">Repository</a></p>
+<p>A robust note-taking service complete with an admin panel, secure role-based controls, and a fully automated deployment cycle.</p>
+<hr />
+<strong>Architecture decisions:</strong>
+<ul>
+<li><b>Go & Gin</b> — High-performance HTTP routing</li>
+<li><b>JWT & RBAC</b> — Secure authorization layers</li>
+<li><b>PostgreSQL & GORM</b> — Database schemas with strict isolation</li>
+<li><b>Swagger</b> — Fully documented schema design</li>
+</ul>
+</td>
+<td width="50%" valign="top">
+<h3>🐍 SolidSnakeBot</h3>
+<p><i>AI-Powered Contextual Telegram Bot</i> | <a href="https://github.com/Human-Unit/SolidSnakeBot">Repository</a></p>
+<p>An intelligent bot running fully on local resources with real-time web verification and persistence layers.</p>
+<hr />
+<strong>Architecture decisions:</strong>
+<ul>
+<li><b>Local LLM</b> — Offline AI execution via LM Studio</li>
+<li><b>FAISS RAG Pipeline</b> — Efficient vector-based retrieval</li>
+<li><b>Async Python</b> — Seamless API integrations</li>
+</ul>
+</td>
+</tr>
+</table>
+text
+  ╔═══════════════════════════════════════════╗
+  ║               METRICS                     ║
+  ╚═══════════════════════════════════════════╝
 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmadsho240480@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](your-link)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Human-Unit)
+<div align="center">
+Human-Unit's GitHub Stats
 
----
+Top Langs
+</div>
+text
+Applied Mathematics ──> Structured System Design ──> Highly Optimized Clean Architecture.
+Everything aligns.
 
-# 💻 Tech Stack
-
-### 🔨 Languages & Frameworks
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-000000?style=for-the-badge&logo=grpc&logoColor=white)
-![Protobuf](https://img.shields.io/badge/Protobuf-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-### 🗄️ Databases & ORM
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![GORM](https://img.shields.io/badge/GORM-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-### 🔐 Auth & Security
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![bcrypt](https://img.shields.io/badge/bcrypt-4A4A4A?style=for-the-badge)
-
-### ⚙️ Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Human-Unit&theme=aura&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Human-Unit&theme=aura&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Human-Unit&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Human-Unit&icon=3&color=9)](https://visitcount.itsvg.in)
+`
+<div align="center">
+<strong>Built with precision, engineered with Go & Python.</strong>
+<br />
+<p>Dilshod Mahmudov · Dushanbe, Tajikistan</p>
+</div>
