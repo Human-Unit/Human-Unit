@@ -1,152 +1,168 @@
 <div align="center">
-
-# Turning math into high-performance backend systems
-
-[![Telegram](https://img.shields.io/badge/Telegram-@DIOADAND-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/DIOADAND)
-[![GitHub](https://img.shields.io/badge/GitHub-Human--Unit-181717?style=flat&logo=github&logoColor=white)](https://github.com/Human-Unit)
-[![Location](https://img.shields.io/badge/Location-Dushanbe%2C%20Tajikistan-green?style=flat&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Dushanbe)
-[![Email](https://img.shields.io/badge/Email-ahmadsho240480%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ahmadsho240480@gmail.com)
-
-</div>
-
-```typescript
-const dilshod = {
-  name:     "Dilshod Mahmudov",
-  alias:    "Human-Unit",
-  role:     ["Backend Developer", "Applied Mathematician"],
-  location: "Dushanbe, Tajikistan 🇹🇯",
-  edu:      "MSU Branch · 2nd year · Applied Mathematics & CS",
-
-  coreSkills: {
-    languages: ["Go (Golang)", "Python", "C++", "SQL"],
-    backend:   ["Gin", "gRPC", "Protobuf", "Clean Architecture", "Docker", "CI/CD"],
-    databases: ["PostgreSQL", "SQLite", "Redis", "MinIO", "GORM ORM"],
-    testing:   ["Integration tests", "httptest", "table-driven tests", "Postman", "Swagger"],
-    ai_vision: ["LLM integration", "RAG", "FAISS", "OpenCV"],
-  },
-
-  currentlyBuilding: "Production-grade microservices & LLM-routed systems",
-  opensource:        "hadaf-tj/hadaf-backend",
-  philosophy:        "Applied mathematics drives structured thinking. Code brings it to life.",
-
-  experience: [
-    "Backend Developer Intern @ Tcell · response speed +80%, query dev time -70%",
-    "Open Source Backend Developer @ Hadaf.tj · auth tests, endpoints, Telegram alerting, code review",
-  ]
-} as const;
-```
-
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d9488,100:0d1117&height=120&section=header" width="100%"/>
 
 ```
-  ╔═══════════════════════════════════════════╗
-  ║              TECH ARSENAL                 ║
-  ╚═══════════════════════════════════════════╝
+██████╗ ██╗██╗     ███████╗██╗  ██╗ ██████╗ ██████╗
+██╔══██╗██║██║     ██╔════╝██║  ██║██╔═══██╗██╔══██╗
+██║  ██║██║██║     ███████╗███████║██║   ██║██║  ██║
+██║  ██║██║██║     ╚════██║██╔══██║██║   ██║██║  ██║
+██████╔╝██║███████╗███████║██║  ██║╚██████╔╝██████╔╝
+╚═════╝ ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝
 ```
 
-<div align="center">
+### Dilshod Mahmudov · Human-Unit
+**Backend Developer** · Applied Mathematician · Dushanbe 🇹🇯
 
-### 🐹 Backend & Infra
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat&logo=go&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat&logo=google&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat&logo=minio&logoColor=white)
+[![Telegram](https://img.shields.io/badge/-@DIOADAND-0d9488?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DIOADAND)
+[![Email](https://img.shields.io/badge/-ahmadsho240480@gmail.com-0d9488?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadsho240480@gmail.com)
+[![GitHub](https://img.shields.io/badge/-Human--Unit-0d9488?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Human-Unit)
 
-### 📊 Databases & Testing
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![GORM](https://img.shields.io/badge/GORM-ORM-grey?style=flat)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
-### 🧠 AI, Vision & Math
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-RAG-blueviolet?style=flat)
-![LLM](https://img.shields.io/badge/LLM-Integration-412991?style=flat)
+*Turning applied mathematics into high-performance backend systems.*
 
 </div>
 
 ---
 
-```
-  ╔═══════════════════════════════════════════╗
-  ║             SHIPPED PRODUCTS              ║
-  ╚═══════════════════════════════════════════╝
+## `$ whoami`
+
+```go
+package main
+
+type Developer struct {
+	Name     string
+	Alias    string
+	Location string
+	Role     []string
+	Education string
+}
+
+type Skills struct {
+	Languages []string
+	Backend   []string
+	Databases []string
+	Testing   []string
+	AI        []string
+}
+
+type Experience struct {
+	Company      string
+	Role         string
+	Highlights   []string
+}
+
+func main() {
+	me := Developer{
+		Name:      "Dilshod Mahmudov",
+		Alias:     "Human-Unit",
+		Location:  "Dushanbe, Tajikistan 🇹🇯",
+		Role:      []string{"Backend Developer", "Applied Mathematician"},
+		Education: "MSU Branch · Applied Mathematics & CS · 2nd year",
+	}
+
+	skills := Skills{
+		Languages: []string{"Go", "Python", "C++", "SQL"},
+		Backend:   []string{"Gin", "gRPC", "Protobuf", "Clean Architecture", "Docker", "CI/CD"},
+		Databases: []string{"PostgreSQL", "SQLite", "Redis", "MinIO", "GORM"},
+		Testing:   []string{"httptest", "integration tests", "table-driven tests", "Postman"},
+		AI:        []string{"LLM integration", "RAG", "FAISS", "OpenCV"},
+	}
+
+	experience := []Experience{
+		{
+			Company: "Tcell",
+			Role:    "Backend Developer Intern",
+			Highlights: []string{
+				"Response speed improved ~80%",
+				"Query development time cut by 70%",
+				"3 production-grade projects shipped",
+			},
+		},
+		{
+			Company: "Hadaf.tj",
+			Role:    "Open Source Backend Developer",
+			Highlights: []string{
+				"Auth flow integration tests (httptest)",
+				"New API endpoints merged to production",
+				"Telegram alerting for panic & 5xx errors",
+				"Redis & MinIO in production",
+			},
+		},
+	}
+
+	_ = me
+	_ = skills
+	_ = experience
+}
 ```
 
-<table width="100%">
+---
+
+## `$ ls -la ./shipped/`
+
+<table>
 <tr>
 <td width="50%" valign="top">
 
-### 📝 Reminder-Card
-*Production REST API with CI/CD Pipeline* | [Repository](https://github.com/Human-Unit/Reminder-Card)
+**[📝 Reminder-Card](https://github.com/Human-Unit/Reminder-Card)**
+`Production REST API · Deployed`
 
-A robust note-taking service with an admin panel, secure role-based controls, and a fully automated deployment cycle.
+Note-taking backend with admin panel, role-based access control, and full CI/CD pipeline.
 
----
-
-**Architecture decisions:**
-- **Go & Gin** — High-performance HTTP routing
-- **JWT & RBAC** — Secure multi-role authorization
-- **PostgreSQL & GORM** — Strict schema isolation
-- **Swagger** — Fully documented API
-- **Docker + CI/CD** — Production deployment pipeline
+```
+Stack:  Go · Gin · PostgreSQL · GORM
+Auth:   JWT + RBAC
+Docs:   Swagger
+Infra:  Docker · CI/CD
+```
 
 </td>
 <td width="50%" valign="top">
 
-### 🐍 SolidSnakeBot
-*AI-Powered Contextual Telegram Bot* | [Repository](https://github.com/Human-Unit/SolidSnakeBot)
+**[🐍 SolidSnakeBot](https://github.com/Human-Unit/SolidSnakeBot)**
+`AI Telegram Bot · Local LLM`
 
-An intelligent bot running fully on local resources with real-time web search, RAG retrieval and persistent context.
+Fully offline-capable bot with RAG retrieval, web search, and live currency data.
 
----
-
-**Architecture decisions:**
-- **Local LLM** — Offline AI via LM Studio
-- **FAISS RAG Pipeline** — Vector-based document retrieval
-- **DuckDuckGo Search** — Real-time web verification
-- **CBR API** — Live currency exchange rates
-- **"LLM as Router"** — Modular intent dispatch pattern
+```
+Stack:  Python · Telegram API
+AI:     LM Studio · FAISS RAG
+Search: DuckDuckGo
+Data:   CBR Currency API
+Pattern: LLM as Router
+```
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 👁️ Predator's Vision
-*Computer Vision HUD* | [Repository](https://github.com/Human-Unit/Predator-s-Vision)
+**[👁️ Predator's Vision](https://github.com/Human-Unit/Predator-s-Vision)**
+`Computer Vision · HUD Overlay`
 
-Real-time face detection with a Predator bio-mask styled HUD overlay, powered by OpenCV and routed through a local LLM.
+Real-time face detection with Predator bio-mask HUD, powered by OpenCV and local LLM routing.
 
----
-
-**Architecture decisions:**
-- **OpenCV** — Real-time video processing pipeline
-- **LLM Integration** — Natural language control layer
-- **"LLM as Router"** — Command dispatch pattern
-- **Python** — Rapid CV prototyping
+```
+Stack:   Python · OpenCV
+Control: Local LLM
+Pattern: LLM as Router
+```
 
 </td>
 <td width="50%" valign="top">
 
-### 🤝 Hadaf.tj (Open Source)
-*Charity Platform Backend* | [Repository](https://github.com/hadaf-tj/hadaf-backend)
+**[🤝 Hadaf.tj](https://github.com/hadaf-tj/hadaf-backend)**
+`Open Source · Social Impact`
 
-Active contributor to an open-source social impact platform connecting donors with verified institutions across Tajikistan.
+Backend for a charity platform connecting donors with verified institutions across Tajikistan.
 
----
-
-**Contributions:**
-- **Integration tests** — Full Auth flow with `httptest`
-- **New endpoints** — Merged into production codebase
-- **Telegram alerting** — Panic & 5xx error monitoring
-- **Redis & MinIO** — Production object & cache layers
-- **Code review** — Active team collaboration
+```
+Contributions:
+  ✓ Auth flow integration tests
+  ✓ New production endpoints
+  ✓ Telegram panic/5xx alerting
+  ✓ Redis & MinIO integration
+  ✓ Code review participation
+```
 
 </td>
 </tr>
@@ -154,30 +170,47 @@ Active contributor to an open-source social impact platform connecting donors wi
 
 ---
 
-```
-  ╔═══════════════════════════════════════════╗
-  ║               METRICS                     ║
-  ╚═══════════════════════════════════════════╝
-```
+## `$ cat stack.txt`
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Human-Unit&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Human-Unit&layout=compact&theme=tokyonight&hide_border=true)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=google&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-```
-Applied Mathematics ──> Structured System Design ──> Highly Optimized Clean Architecture.
-Everything aligns.
-```
+## `$ git log --stats`
 
 <div align="center">
 
-**Built with precision, engineered with Go & Python.**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Human-Unit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0d9488&icon_color=0d9488&text_color=ccd6f6)
 
-*Dilshod Mahmudov · Dushanbe, Tajikistan*
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Human-Unit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0d9488&text_color=ccd6f6)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+Applied Mathematics ──▶ Structured Thinking ──▶ Clean Architecture ──▶ Shipped Code
+```
+
+**Open to part-time & remote backend roles**
+
+`go build ./Human-Unit/...`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d9488,100:0d1117&height=80&section=footer" width="100%"/>
 
 </div>
