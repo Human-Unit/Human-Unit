@@ -95,8 +95,10 @@ Real-time face detection with Predator-styled HUD overlay, powered by OpenCV and
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Human-Unit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0d9488&icon_color=0d9488&text_color=ccd6f6&count_private=true"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Human-Unit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0d9488&text_color=ccd6f6"/>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Human-Unit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0d9488&icon_color=0d9488&text_color=ccd6f6&count_private=true)](https://github.com/Human-Unit)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Human-Unit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0d9488&text_color=ccd6f6)](https://github.com/Human-Unit)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Human-Unit&theme=tokyonight&hide_border=true&background=0d1117&stroke=0d9488&ring=0d9488&fire=0d9488&currStreakLabel=0d9488)](https://github.com/Human-Unit)
 
 </div>
 
@@ -106,11 +108,10 @@ Real-time face detection with Predator-styled HUD overlay, powered by OpenCV and
 
 *Applied Mathematics → Structured Thinking → Clean Architecture → Shipped Code*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d9488,100:0d1117&height=80&section=footer" width="100%"/>
+---
+**Open to part-time & remote backend roles · Dushanbe, Tajikistan 🇹🇯**
 
 </div>
-**Open to part-time & remote backend roles**
-
 `go build ./Human-Unit/...`
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d9488,100:0d1117&height=80&section=footer" width="100%"/>
