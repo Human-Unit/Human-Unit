@@ -1,15 +1,3 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d9488,100:0d1117&height=120&section=header" width="100%"/>
-
-```
-
-                          ██████╗ ██╗██╗     ███████╗██╗  ██╗ ██████╗ ██████╗
-                          ██╔══██╗██║██║     ██╔════╝██║  ██║██╔═══██╗██╔══██╗
-                          ██║  ██║██║██║     ███████╗███████║██║   ██║██║  ██║
-                          ██║  ██║██║██║     ╚════██║██╔══██║██║   ██║██║  ██║
-                          ██████╔╝██║███████╗███████║██║  ██║╚██████╔╝██████╔╝
-                          ╚═════╝ ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝
-```
 
 ### Dilshod Mahmudov · Human-Unit
 **Backend Developer** · Applied Mathematician · Dushanbe 🇹🇯
