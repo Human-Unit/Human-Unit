@@ -2,20 +2,12 @@
 
 # Turning math into high-performance backend systems
 
-[![Telegram](https://img.shields.io/badge/Telegram-Chat-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/your_telegram_handle)
-[![GitHub](https://img.shields.io/badge/GitHub-Human--Unit-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Human-Unit)
-[![Location](https://img.shields.io/badge/Location-Dushanbe%2C%20Tajikistan-informational?style=flat-square)](#)
-[![Education](https://img.shields.io/badge/Education-MSU%20Branch-blue?style=flat-square)](#)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Human-Unit&color=blue&style=flat-square)
+[![Telegram](https://img.shields.io/badge/Telegram-@DIOADAND-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/DIOADAND)
+[![GitHub](https://img.shields.io/badge/GitHub-Human--Unit-181717?style=flat&logo=github&logoColor=white)](https://github.com/Human-Unit)
+[![Location](https://img.shields.io/badge/Location-Dushanbe%2C%20Tajikistan-green?style=flat&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Dushanbe)
+[![Email](https://img.shields.io/badge/Email-ahmadsho240480%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ahmadsho240480@gmail.com)
 
 </div>
-
-```
-  ╔═══════════════════════════════════════════╗
-  ║           WHO IS HUMAN-UNIT?              ║
-  ╚═══════════════════════════════════════════╝
-```
 
 ```typescript
 const dilshod = {
@@ -23,25 +15,28 @@ const dilshod = {
   alias:    "Human-Unit",
   role:     ["Backend Developer", "Applied Mathematician"],
   location: "Dushanbe, Tajikistan 🇹🇯",
-  edu:      "MSU Branch · 2nd year",
+  edu:      "MSU Branch · 2nd year · Applied Mathematics & CS",
 
   coreSkills: {
     languages: ["Go (Golang)", "Python", "C++", "SQL"],
     backend:   ["Gin", "gRPC", "Protobuf", "Clean Architecture", "Docker", "CI/CD"],
-    databases: ["PostgreSQL", "SQLite", "GORM ORM", "Swagger"],
-    testing:   ["Integration tests", "httptest", "table-driven tests", "Postman"],
+    databases: ["PostgreSQL", "SQLite", "Redis", "MinIO", "GORM ORM"],
+    testing:   ["Integration tests", "httptest", "table-driven tests", "Postman", "Swagger"],
     ai_vision: ["LLM integration", "RAG", "FAISS", "OpenCV"],
   },
 
   currentlyBuilding: "Production-grade microservices & LLM-routed systems",
-  philosophy: "Applied mathematics drives structured, analytical thinking. Code brings it to life.",
+  opensource:        "hadaf-tj/hadaf-backend",
+  philosophy:        "Applied mathematics drives structured thinking. Code brings it to life.",
 
   experience: [
-    "Backend Developer Intern @ Tcell (Improved response speed ~80%, cut query dev time 70%)",
-    "Open Source Backend Developer @ Hadaf"
+    "Backend Developer Intern @ Tcell · response speed +80%, query dev time -70%",
+    "Open Source Backend Developer @ Hadaf.tj · auth tests, endpoints, Telegram alerting, code review",
   ]
 } as const;
 ```
+
+---
 
 ```
   ╔═══════════════════════════════════════════╗
@@ -52,21 +47,30 @@ const dilshod = {
 <div align="center">
 
 ### 🐹 Backend & Infra
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=gin&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat&logo=go&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat&logo=google&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat&logo=minio&logoColor=white)
 
 ### 📊 Databases & Testing
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![GORM](https://img.shields.io/badge/GORM-ORM-grey?style=flat)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ### 🧠 AI, Vision & Math
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-RAG-blueviolet?style=flat)
+![LLM](https://img.shields.io/badge/LLM-Integration-412991?style=flat)
 
 </div>
+
+---
 
 ```
   ╔═══════════════════════════════════════════╗
@@ -78,35 +82,77 @@ const dilshod = {
 <tr>
 <td width="50%" valign="top">
 
-<h3>📝 Reminder-Card</h3>
-<p><i>Production REST API with CI/CD Pipeline</i> | <a href="https://github.com/Human-Unit/Reminder-Card">Repository</a></p>
-<p>A robust note-taking service complete with an admin panel, secure role-based controls, and a fully automated deployment cycle.</p>
-<hr />
-<strong>Architecture decisions:</strong>
-<ul>
-<li><b>Go & Gin</b> — High-performance HTTP routing</li>
-<li><b>JWT & RBAC</b> — Secure authorization layers</li>
-<li><b>PostgreSQL & GORM</b> — Database schemas with strict isolation</li>
-<li><b>Swagger</b> — Fully documented schema design</li>
-</ul>
+### 📝 Reminder-Card
+*Production REST API with CI/CD Pipeline* | [Repository](https://github.com/Human-Unit/Reminder-Card)
+
+A robust note-taking service with an admin panel, secure role-based controls, and a fully automated deployment cycle.
+
+---
+
+**Architecture decisions:**
+- **Go & Gin** — High-performance HTTP routing
+- **JWT & RBAC** — Secure multi-role authorization
+- **PostgreSQL & GORM** — Strict schema isolation
+- **Swagger** — Fully documented API
+- **Docker + CI/CD** — Production deployment pipeline
 
 </td>
 <td width="50%" valign="top">
 
-<h3>🐍 SolidSnakeBot</h3>
-<p><i>AI-Powered Contextual Telegram Bot</i> | <a href="https://github.com/Human-Unit/SolidSnakeBot">Repository</a></p>
-<p>An intelligent bot running fully on local resources with real-time web verification and persistence layers.</p>
-<hr />
-<strong>Architecture decisions:</strong>
-<ul>
-<li><b>Local LLM</b> — Offline AI execution via LM Studio</li>
-<li><b>FAISS RAG Pipeline</b> — Efficient vector-based retrieval</li>
-<li><b>Async Python</b> — Seamless API integrations</li>
-</ul>
+### 🐍 SolidSnakeBot
+*AI-Powered Contextual Telegram Bot* | [Repository](https://github.com/Human-Unit/SolidSnakeBot)
+
+An intelligent bot running fully on local resources with real-time web search, RAG retrieval and persistent context.
+
+---
+
+**Architecture decisions:**
+- **Local LLM** — Offline AI via LM Studio
+- **FAISS RAG Pipeline** — Vector-based document retrieval
+- **DuckDuckGo Search** — Real-time web verification
+- **CBR API** — Live currency exchange rates
+- **"LLM as Router"** — Modular intent dispatch pattern
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 👁️ Predator's Vision
+*Computer Vision HUD* | [Repository](https://github.com/Human-Unit/Predator-s-Vision)
+
+Real-time face detection with a Predator bio-mask styled HUD overlay, powered by OpenCV and routed through a local LLM.
+
+---
+
+**Architecture decisions:**
+- **OpenCV** — Real-time video processing pipeline
+- **LLM Integration** — Natural language control layer
+- **"LLM as Router"** — Command dispatch pattern
+- **Python** — Rapid CV prototyping
+
+</td>
+<td width="50%" valign="top">
+
+### 🤝 Hadaf.tj (Open Source)
+*Charity Platform Backend* | [Repository](https://github.com/hadaf-tj/hadaf-backend)
+
+Active contributor to an open-source social impact platform connecting donors with verified institutions across Tajikistan.
+
+---
+
+**Contributions:**
+- **Integration tests** — Full Auth flow with `httptest`
+- **New endpoints** — Merged into production codebase
+- **Telegram alerting** — Panic & 5xx error monitoring
+- **Redis & MinIO** — Production object & cache layers
+- **Code review** — Active team collaboration
 
 </td>
 </tr>
 </table>
+
+---
 
 ```
   ╔═══════════════════════════════════════════╗
@@ -116,10 +162,12 @@ const dilshod = {
 
 <div align="center">
 
-![Human-Unit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Human-Unit&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Human-Unit&layout=compact&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Human-Unit&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Human-Unit&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
+
+---
 
 ```
 Applied Mathematics ──> Structured System Design ──> Highly Optimized Clean Architecture.
@@ -127,7 +175,9 @@ Everything aligns.
 ```
 
 <div align="center">
-<strong>Built with precision, engineered with Go & Python.</strong>
-<br />
-<p>Dilshod Mahmudov · Dushanbe, Tajikistan</p>
+
+**Built with precision, engineered with Go & Python.**
+
+*Dilshod Mahmudov · Dushanbe, Tajikistan*
+
 </div>
